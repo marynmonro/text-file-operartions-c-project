@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Marina/Desktop/PROJECTS/text_file_operations_apli/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+operations.h
+C:/Users/Marina/Desktop/PROJECTS/text_file_operations_apli/operations.h
+
+C:/Users/Marina/Desktop/PROJECTS/text_file_operations_apli/operations.h
+algorithm
+-
+set
+-
+
