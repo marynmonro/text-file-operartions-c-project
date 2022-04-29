@@ -1,1 +1,0 @@
--f plik.txt -n -l -rs -s
