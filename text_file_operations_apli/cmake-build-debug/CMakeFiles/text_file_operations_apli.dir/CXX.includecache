@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/admin/Documents/GitHub/text-file-operartions-c-project/text_file_operations_apli/main.cpp
+iostream
+-
+vector
+-
+fstream
+-
+operations.h
+D:/admin/Documents/GitHub/text-file-operartions-c-project/text_file_operations_apli/operations.h
+
+D:/admin/Documents/GitHub/text-file-operartions-c-project/text_file_operations_apli/operations.h
+algorithm
+-
+set
+-
+
